@@ -1,5 +1,5 @@
 # palchecker
-Check if the picture contains only colors from the desire palette
+Check if the picture contains only colors from the desired palette
 
 # Run
 ```
